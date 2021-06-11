@@ -23,3 +23,5 @@ __Делаем подзаголовок и красивый список__
 А в конце понаслаждаемся красивым видом из новой коллекции обоев _`BigSur`_
 
 ![](https://images.alphacoders.com/108/thumb-1920-1083641.jpg)
+![](https://images5.alphacoders.com/108/thumb-1920-1083642.jpg)
+![](https://images3.alphacoders.com/108/thumb-1920-1083643.jpg)
