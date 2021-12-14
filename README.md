@@ -1,7 +1,7 @@
 Тестовый репозиторий
 =========
 
-Здесь будт лежать материалы, сортированные по неделям, онлайн курса [Сбор и анализ данных в Python](https://www.coursera.org/learn/data-collection-and-analysis-in-python/home/welcome)
+Здесь будт лежать материалы, отсортированные по неделям, онлайн курса [Сбор и анализ данных в Python](https://www.coursera.org/learn/data-collection-and-analysis-in-python/home/welcome)
 
 
 ## Про репозиторий
